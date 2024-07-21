@@ -14,3 +14,4 @@ http://int32.ddns.net/verify?q=9a993bbd-171d-41fa-b88f-3e037a8172f2|0x75960Ef0B3
 - Give the address claim to be
 - Give the signed message
 - It return the public address extracted if it is the same that the claimed address given.
+- If you have an error 404, it means that my local server is not power on.
